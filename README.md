@@ -8,4 +8,4 @@ The data table presents business-related information, featuring contacts in vari
 
 **Here is the formula**:
  
-<img width="714" alt="2" src="https://github.com/AdnanTheDataAnalyst/Excel_Index-Match/assets/152249280/ea62a92e-0131-4686-8631-08fbbdaeb977">
+<img width="737" alt="2" src="https://github.com/AdnanTheDataAnalyst/Excel_Index-Match/assets/152249280/ff9250e6-6483-4e72-9f70-31bff231f1eb">
